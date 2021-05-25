@@ -1,0 +1,35 @@
+.img{
+	width: 340px;
+	height: 200px;
+
+}
+
+.block {
+	display: inline-block;
+	padding: 5px;
+	margin: 5px;
+}
+
+.header {
+	width: 50px;
+	padding: 5px;
+	margin: 5px;
+}
+
+.head {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.body {
+	text-align: center;
+	display: flex;
+	flex-direction: row;
+}
+
+.navbar {
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+}
